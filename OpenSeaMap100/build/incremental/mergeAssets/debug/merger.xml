@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="OrgMapsforgeSvgAndroid040.aar" >
+        <source path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\build\exploded-bundles\OrgMapsforgeSvgAndroid040.aar\assets" />
+    </dataSet>
+    <dataSet config="OrgMapsforgeMapsforgeMapAndroid040.aar" >
+        <source path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\build\exploded-bundles\OrgMapsforgeMapsforgeMapAndroid040.aar\assets" />
+    </dataSet>
+    <dataSet config="main" >
+        <source path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets" >
+            <file
+                name="patterns/access-destination.png"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\patterns\access-destination.png" />
+            <file
+                name="patterns/access-private.png"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\patterns\access-private.png" />
+            <file
+                name="patterns/cemetery.png"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\patterns\cemetery.png" />
+            <file
+                name="patterns/field.png"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\patterns\field.png" />
+            <file
+                name="patterns/grass.png"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\patterns\grass.png" />
+            <file
+                name="patterns/grey.png"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\patterns\grey.png" />
+            <file
+                name="patterns/house.png"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\patterns\house.png" />
+            <file
+                name="patterns/marsh.png"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\patterns\marsh.png" />
+            <file
+                name="patterns/military.png"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\patterns\military.png" />
+            <file
+                name="patterns/nature-reserve.png"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\patterns\nature-reserve.png" />
+            <file
+                name="patterns/park.png"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\patterns\park.png" />
+            <file
+                name="patterns/pink.png"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\patterns\pink.png" />
+            <file
+                name="patterns/reddot.png"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\patterns\reddot.png" />
+            <file
+                name="patterns/wood-coniferous.png"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\patterns\wood-coniferous.png" />
+            <file
+                name="patterns/wood-deciduous.png"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\patterns\wood-deciduous.png" />
+            <file
+                name="patterns/wood-mixed.png"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\patterns\wood-mixed.png" />
+            <file
+                name="renderthemes/assets.xml"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\renderthemes\assets.xml" />
+            <file
+                name="renderthemes/assetssvg.xml"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\renderthemes\assetssvg.xml" />
+            <file
+                name="renderthemes/detailed.xml"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\renderthemes\detailed.xml" />
+            <file
+                name="renderthemes/driving.xml"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\renderthemes\driving.xml" />
+            <file
+                name="renderthemes/onlybuildings.xml"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\renderthemes\onlybuildings.xml" />
+            <file
+                name="renderthemes/osmarendernopng.xml"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\renderthemes\osmarendernopng.xml" />
+            <file
+                name="symbols/airport.png"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\airport.png" />
+            <file
+                name="symbols/airport.svg"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\airport.svg" />
+            <file
+                name="symbols/alpine_hut.png"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\alpine_hut.png" />
+            <file
+                name="symbols/alpine_hut.svg"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\alpine_hut.svg" />
+            <file
+                name="symbols/art-gallery.svg"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\art-gallery.svg" />
+            <file
+                name="symbols/atm.png"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\atm.png" />
+            <file
+                name="symbols/atm.svg"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\atm.svg" />
+            <file
+                name="symbols/bakery.png"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\bakery.png" />
+            <file
+                name="symbols/bakery.svg"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\bakery.svg" />
+            <file
+                name="symbols/bank.png"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\bank.png" />
+            <file
+                name="symbols/bank.svg"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\bank.svg" />
+            <file
+                name="symbols/bench.png"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\bench.png" />
+            <file
+                name="symbols/bench.svg"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\bench.svg" />
+            <file
+                name="symbols/bicycle_rental.png"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\bicycle_rental.png" />
+            <file
+                name="symbols/bicycle_rental.svg"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\bicycle_rental.svg" />
+            <file
+                name="symbols/bus.png"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\bus.png" />
+            <file
+                name="symbols/bus.svg"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\bus.svg" />
+            <file
+                name="symbols/bus_sta.png"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\bus_sta.png" />
+            <file
+                name="symbols/bus_sta.svg"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\bus_sta.svg" />
+            <file
+                name="symbols/cable_car.png"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\cable_car.png" />
+            <file
+                name="symbols/cafe.png"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\cafe.png" />
+            <file
+                name="symbols/cafe.svg"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\cafe.svg" />
+            <file
+                name="symbols/campSite.png"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\campSite.png" />
+            <file
+                name="symbols/campSite.svg"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\campSite.svg" />
+            <file
+                name="symbols/cave_entrance.png"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\cave_entrance.png" />
+            <file
+                name="symbols/cave_entrance.svg"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\cave_entrance.svg" />
+            <file
+                name="symbols/chair_lift_2.png"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\chair_lift_2.png" />
+            <file
+                name="symbols/church.png"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\church.png" />
+            <file
+                name="symbols/church.svg"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\church.svg" />
+            <file
+                name="symbols/cinema.png"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\cinema.png" />
+            <file
+                name="symbols/cinema.svg"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\cinema.svg" />
+            <file
+                name="symbols/drinking_water.png"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\drinking_water.png" />
+            <file
+                name="symbols/drinking_water.svg"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\drinking_water.svg" />
+            <file
+                name="symbols/embassy.svg"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\embassy.svg" />
+            <file
+                name="symbols/fastfood.png"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\fastfood.png" />
+            <file
+                name="symbols/fastfood.svg"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\fastfood.svg" />
+            <file
+                name="symbols/ferry.svg"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\ferry.svg" />
+            <file
+                name="symbols/firebrigade.png"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\firebrigade.png" />
+            <file
+                name="symbols/firebrigade.svg"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\firebrigade.svg" />
+            <file
+                name="symbols/florist.png"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\florist.png" />
+            <file
+                name="symbols/florist.svg"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\florist.svg" />
+            <file
+                name="symbols/fountain.png"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\fountain.png" />
+            <file
+                name="symbols/fountain.svg"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\fountain.svg" />
+            <file
+                name="symbols/gondola.png"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\gondola.png" />
+            <file
+                name="symbols/helipad.png"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\helipad.png" />
+            <file
+                name="symbols/helipad.svg"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\helipad.svg" />
+            <file
+                name="symbols/hospital.png"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\hospital.png" />
+            <file
+                name="symbols/hospital.svg"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\hospital.svg" />
+            <file
+                name="symbols/hostel.png"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\hostel.png" />
+            <file
+                name="symbols/hostel.svg"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\hostel.svg" />
+            <file
+                name="symbols/hotel.png"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\hotel.png" />
+            <file
+                name="symbols/hotel.svg"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\hotel.svg" />
+            <file
+                name="symbols/information.png"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\information.png" />
+            <file
+                name="symbols/information.svg"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\information.svg" />
+            <file
+                name="symbols/kindergarten.png"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\kindergarten.png" />
+            <file
+                name="symbols/kindergarten.svg"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\kindergarten.svg" />
+            <file
+                name="symbols/library.png"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\library.png" />
+            <file
+                name="symbols/library.svg"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\library.svg" />
+            <file
+                name="symbols/monument.svg"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\monument.svg" />
+            <file
+                name="symbols/mosque.png"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\mosque.png" />
+            <file
+                name="symbols/mosque.svg"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\mosque.svg" />
+            <file
+                name="symbols/museum.png"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\museum.png" />
+            <file
+                name="symbols/museum.svg"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\museum.svg" />
+            <file
+                name="symbols/oneway.png"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\oneway.png" />
+            <file
+                name="symbols/parking.png"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\parking.png" />
+            <file
+                name="symbols/parking.svg"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\parking.svg" />
+            <file
+                name="symbols/peak.png"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\peak.png" />
+            <file
+                name="symbols/peak.svg"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\peak.svg" />
+            <file
+                name="symbols/petrolStation.png"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\petrolStation.png" />
+            <file
+                name="symbols/petrolStation.svg"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\petrolStation.svg" />
+            <file
+                name="symbols/pharmacy.png"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\pharmacy.png" />
+            <file
+                name="symbols/pharmacy.svg"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\pharmacy.svg" />
+            <file
+                name="symbols/playground.png"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\playground.png" />
+            <file
+                name="symbols/playground.svg"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\playground.svg" />
+            <file
+                name="symbols/police.svg"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\police.svg" />
+            <file
+                name="symbols/postbox.png"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\postbox.png" />
+            <file
+                name="symbols/postbox.svg"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\postbox.svg" />
+            <file
+                name="symbols/postoffice.png"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\postoffice.png" />
+            <file
+                name="symbols/postoffice.svg"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\postoffice.svg" />
+            <file
+                name="symbols/pub.png"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\pub.png" />
+            <file
+                name="symbols/pub.svg"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\pub.svg" />
+            <file
+                name="symbols/railway-crossing-small.png"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\railway-crossing-small.png" />
+            <file
+                name="symbols/railway-crossing-small.svg"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\railway-crossing-small.svg" />
+            <file
+                name="symbols/railway-crossing.png"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\railway-crossing.png" />
+            <file
+                name="symbols/railway-crossing.svg"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\railway-crossing.svg" />
+            <file
+                name="symbols/recycling.png"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\recycling.png" />
+            <file
+                name="symbols/recycling.svg"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\recycling.svg" />
+            <file
+                name="symbols/restaurant.png"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\restaurant.png" />
+            <file
+                name="symbols/restaurant.svg"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\restaurant.svg" />
+            <file
+                name="symbols/school.png"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\school.png" />
+            <file
+                name="symbols/school.svg"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\school.svg" />
+            <file
+                name="symbols/shelter.png"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\shelter.png" />
+            <file
+                name="symbols/shelter.svg"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\shelter.svg" />
+            <file
+                name="symbols/shop.svg"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\shop.svg" />
+            <file
+                name="symbols/soccer-borderless.png"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\soccer-borderless.png" />
+            <file
+                name="symbols/soccer-borderless.svg"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\soccer-borderless.svg" />
+            <file
+                name="symbols/supermarket.png"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\supermarket.png" />
+            <file
+                name="symbols/supermarket.svg"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\supermarket.svg" />
+            <file
+                name="symbols/swimming.svg"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\swimming.svg" />
+            <file
+                name="symbols/synagogue.png"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\synagogue.png" />
+            <file
+                name="symbols/synagogue.svg"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\synagogue.svg" />
+            <file
+                name="symbols/telephone.png"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\telephone.png" />
+            <file
+                name="symbols/telephone.svg"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\telephone.svg" />
+            <file
+                name="symbols/tennis.png"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\tennis.png" />
+            <file
+                name="symbols/tennis.svg"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\tennis.svg" />
+            <file
+                name="symbols/theatre.png"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\theatre.png" />
+            <file
+                name="symbols/theatre.svg"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\theatre.svg" />
+            <file
+                name="symbols/toilets.png"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\toilets.png" />
+            <file
+                name="symbols/toilets.svg"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\toilets.svg" />
+            <file
+                name="symbols/traffic_signal.png"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\traffic_signal.png" />
+            <file
+                name="symbols/traffic_signal.svg"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\traffic_signal.svg" />
+            <file
+                name="symbols/train.svg"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\train.svg" />
+            <file
+                name="symbols/tree.png"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\tree.png" />
+            <file
+                name="symbols/tree.svg"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\tree.svg" />
+            <file
+                name="symbols/university.png"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\university.png" />
+            <file
+                name="symbols/university.svg"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\university.svg" />
+            <file
+                name="symbols/viewpoint.png"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\viewpoint.png" />
+            <file
+                name="symbols/viewpoint.svg"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\viewpoint.svg" />
+            <file
+                name="symbols/vulcan.png"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\vulcan.png" />
+            <file
+                name="symbols/vulcan.svg"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\vulcan.svg" />
+            <file
+                name="symbols/windmill.png"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\windmill.png" />
+            <file
+                name="symbols/windmill.svg"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\windmill.svg" />
+            <file
+                name="symbols/zoo.svg"
+                path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\assets\symbols\zoo.svg" />
+        </source>
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="C:\Users\vkmapadm\mapsforge\Applications\Android\Samples\src\debug\assets" />
+    </dataSet>
+
+</merger>
